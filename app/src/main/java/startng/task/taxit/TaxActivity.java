@@ -19,8 +19,8 @@ public class TaxActivity extends AppCompatActivity {
     private Button paymentBtn;
     private EditText amountTv;
     final int amount = 5000;
-    final String publicKey = "FLWPUBK_TEST-adc34bcd81cd2a3c566caa003ae499ab-X";
-    final String encryptionKey = "FLWSECK_TEST1ed2d4ba5347";
+    final String publicKey = "";
+    final String encryptionKey = "";
     Spinner spinner1, spinner2, spinner3;
 
     @Override
