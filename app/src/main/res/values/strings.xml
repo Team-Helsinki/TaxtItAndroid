@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TaxIt</string>
+    <string-array name="jobstatus">
+        <item>Corporate</item>
+        <item>Individual</item>
+    </string-array>
+
+
+    <string-array name="paymentsmonths">
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+    </string-array>
+
+
+    <string-array name="incomeband">
+        <item>10k - 50k : 3%</item>
+        <item>50k - 200k : 5%</item>
+        <item>200k - 500k : 7%</item>
+        <item>500k - 2M : 10%</item>
+    </string-array>
+
+
+
+
+</resources>
