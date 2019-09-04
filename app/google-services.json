@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "706690437701",
+    "firebase_url": "https://taxitandroid.firebaseio.com",
+    "project_id": "taxitandroid",
+    "storage_bucket": "taxitandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706690437701:android:a65940661388eafbfb092c",
+        "android_client_info": {
+          "package_name": "startng.task.taxit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706690437701-nun66lkr7li7m7kiuf5lrcuudpm05l3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "startng.task.taxit",
+            "certificate_hash": "b5d67c93622a9537e267b5255cf9d39aa60d21e6"
+          }
+        },
+        {
+          "client_id": "706690437701-kup03cijqitq9h6tll28u4q2gge6c2tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9G0dnM76HAGD1NTqJdn2zI3oQaCum_QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706690437701-kup03cijqitq9h6tll28u4q2gge6c2tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
